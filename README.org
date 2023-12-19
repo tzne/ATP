@@ -1,0 +1,5 @@
+* Exercíos para prática de ATP (I e II)
+Exercícios do curso de *Algoritmos e Técnicas de Programação* no curso de Bacharelado em Ciência da Computação da FCT/Unesp
+** ATP I
+Ministrado por [[https://github.com/daniloeler][Danilo Medeiros Eler]]
+*** Identificadores
